@@ -8,7 +8,6 @@ EPOCHS = 1
 
 
 
-
 def main():
     parser = build_parser()
     options = parser.parse_args()
